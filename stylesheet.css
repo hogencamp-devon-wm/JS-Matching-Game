@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+div {
+    position: absolute;
+}
+#left {
+    left: 200px;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+#right {
+    left: 750px;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+#border {
+    left: 700px;
+    width: 50px;
+    height: 500px;
+    background-color: white;
+}
